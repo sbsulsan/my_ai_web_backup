@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/my_ai_web/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
